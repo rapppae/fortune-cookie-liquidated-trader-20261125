@@ -1,6 +1,6 @@
 """Entry for make.fun bounty: Fortune Cookie for the Liquidated Trader
 Slug: u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c
-Entry text (89 characters, 19 words (limit 20 words), gate max 160). Written to /output/entry.txt with no trailing newline.
+Entry text (91 characters, 19 words (limit 20 words), gate max 160). Written to /output/entry.txt with no trailing newline.
 """
 import os
 
