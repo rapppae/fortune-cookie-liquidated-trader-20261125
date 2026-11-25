@@ -4,7 +4,7 @@
 
 [View the bounty on make.fun](https://make.fun/bounty/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c)
 
-> A great loss is coming, but so is a greater lesson: never bet the rent on a green candle.
+> A great loss is coming, but so is a greater lesson: never bet rent money on a green candle.
 
 ## Run
 
